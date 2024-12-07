@@ -106,7 +106,7 @@ Encrypts/decrypts the input string using XOR with a specified key.
 
 ### CLI Example:
 ```sh
-./TT.go --rot13 "example text"
+go run main.go --rot13 "example text"
 ```
 
 ### YAML Configuration Example:
@@ -119,7 +119,7 @@ log_level: debug
 
 ### Executing With YAML:
 ```sh
-./TT.go --config config.yaml
+go run main.go --config config.yaml
 ```
 
 ---
