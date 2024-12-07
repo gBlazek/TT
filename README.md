@@ -1,5 +1,3 @@
-# Functionality and Examples Documentation
-
 ## Overview
 This Go-based text processing tool offers various text transformations including:
 - Reverse
